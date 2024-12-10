@@ -1,0 +1,4 @@
+train: C:/Users/devri/OneDrive/Desktop/final_iot/datasets/images/train
+val: C:/Users/devri/OneDrive/Desktop/final_iot/datasets/images/val
+nc: 2  # number of classes
+names: ['car', 'accident']  # class names
