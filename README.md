@@ -73,12 +73,7 @@ Steps to use the dataset:
    cd realtime-accident-detection
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Download the pretrained YOLOv8n model and place it in the `Models/` directory:
+2. Download the pretrained YOLOv8n model and place it in the `Models/` directory:
    - `generalized.pt`: General-purpose model.
    - `yolov8n.pt`: Fine-tuned model for accident detection.
 
